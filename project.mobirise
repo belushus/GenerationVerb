@@ -1,0 +1,571 @@
+{
+  "settings": {
+    "name": "Generation Verb",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 29,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Generation Verb ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2ecc71"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2ecc71"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2ecc71"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#2ecc71"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#222f3d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2f4154!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#34495e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2ecc71",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "bgColor": "#34495e",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#2ecc71",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/genverblogo-137x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GENERATION VERB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-5\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#accordion2-l\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-g\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-016-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-167-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-064-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-020-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-f",
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "text": "Our children are our best shot at a better world. Poetry is an art that lends each one their own voice even as it disciplines all those present to lend an ear. If children learn at an early age to genuinely hear rather than judge and denigrate each other's stories, their vantage will deepen and grow. The window onto their world will necessarily include the eyes words and hearts of others than their own. They will learn empathy by practicing it. You can't deny the existence of someone's voice you've heard, someone's story you know. Let's give these students the right tools to build a better world.&nbsp;"
+        },
+        {
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "testimonials3-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grass.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#233f5b",
+            "bgCardImage": "@PROJECT_PATH@/assets/images/freepoetry-034-2000x1500.jpg",
+            "showText": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false
+          },
+          "text": "<b style=\"letter-spacing: 0.02em;\">Generation Verb's Mission&nbsp;</b><span style=\"letter-spacing: 0.02em;\">&nbsp;</span>is to use poetry and art as windows in which we examine culture and contemporary social issues in order to show our students how to write the world in an effort to right the world.<br>We create an atmosphere conducive to learning the history and application of the oral tradition, by enabling students to feel comfortable joining the tradition and carrying it with them through life. To complement traditional teaching settings by allow students a space to be free for the sake of growth. To instill confidence, inspire growth, and enforce a safe space for expression of all walks of life. To create a community among students that sponsors self-healing through authentic self-expression, being present, and the exploration of empathy. &nbsp;<br>",
+          "title": "",
+          "subtitle": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "accordion2-l",
+          "_params": {
+            "tabs": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "ABOUT",
+          "text": "Generation Verb strives to continue the African traditional art of storytelling. From the Griots, to Negro spirituals, gospel call and response, the dozens, ragtime, jazz, the oral tradition has been the backbone of storytelling for the African diaspora. Spoken word poetry is a new spin to an old coin. We aren't offering these students something that doesn't already belong to them, but rather creating a space that grants them the permission to be themselves. We aim to rescue and reclaim, this performative tradition and art that is already very well hidden inside of them. We just have to remind them that it's there and tell them that it is okay to enact it. \n",
+          "title1": "<a role=\"button\" class=\"text-white collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseOneaccordion2-l\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Day by day (introduction)&nbsp;</a>",
+          "text1": "<p>The day to day enactment of the program will take the feel of an interactive poetry workshop. Each workshop led by a seasoned performer and writer, will allow students to view, learn, then explore the most fundamental and dynamic components of the craft. Emphasis will encourage students to learn by doing. Instructors will exploit student engagement with a keen eye toward helping students apply taught concepts toward the development of the student’s own craft.</p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">To be sure students will have fun, but the good times they're having will always be hinged to valuable skill building and critical insight on the craft. Students will be introduced to the historical and contemporary evolution of the oral tradition. Each lesson will be structured around a thorough breakdown of poetic structure, figurative language, performance technique, and proper vocal projection. &nbsp;</span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">The workshops will be tailored to the specific needs of the children within it. Our curriculum exists as a thorough and flexible working outline patterned to adjust to the particular needs interests and abilities of students within every program. Poetry has the ability to mirror theater, hip hop, literature, and speech writing, or even a combination of all, and how it bends should be a reflection of the students not the instructors. We will be sure to provide a staff dynamic enough to not only recognize the need of the students but to apply alterations accordingly.&nbsp;</span></p>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseTwoaccordion2-l\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Long line&nbsp;</a>",
+          "text2": "<p>The daily workshops are conceived as steps on a path toward the cultivation of students writing, editing, memorizing, and performing their own work. We consider each group as an emerging cadre of young poets. This group of poets deserves a chance to test their hard work in a slam. The slam will create a team. This team will comprise the best work created by our student-poets to represent the school's poetry program. This team will compete with the other school teams within the program. Why learn the art of slam poetry and never apply it? Through the rigor and challenge of friendly competition students will gain the opportunity to compete with their own stories and in their own voices. What better to instill confidence into the minds of these young poets than to offer a forum where they can present their stories to their own peers alongside the fond memories of competition? This will operate like a school step team, or basketball team, we will have a season in which students are allowed to travel and compete with other schools in poetry slam. This already happens on the collegiate level at CUPSI, and a lot of those who compete are fresh out of high school and wish this resource were available then. \n</p>",
+          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseThreeaccordion2-l\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Staff&nbsp;</a>",
+          "text3": "<p>We have gathered some of the cities brightest poets from all walks of the tradition. These poets hail from different backgrounds and different disciplines. Our staff is dynamic because we plan for your students to be, we are a multicultural group of artists unified by one craft, a mixture of hip hop, theater, comedy, creative writing, and even a little gospel. If there is a stage and words spoken on it then it is an inalienable part of this tradition. \n</p>",
+          "title4": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseFouraccordion2-l\" aria-expanded=\"true\" aria-controls=\"collapseFour\">The Students \n</a>",
+          "text4": "<p>All students are welcome. We do not expect a general interest but rather plan to open up and introduce the different sectors allowing students to understand the many roads that lead to this art form. It is okay if they do not consider themselves a poet, but there is a storyteller in them all. They all participate in the oral tradition somehow. Some of them may lead prayer at church, some may have journals or a book of rhymes, even the class clown is a story teller. It is about polishing the sector of storytelling that already lives in them. \n</p>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseFiveaccordion2-l\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Partners</a>",
+          "text5": "<p>We are looking to work with children grade 6-12 in inner city schools or minority populous school. They are our focus group because we feel they have the most to gain from this program&nbsp;</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/young-poet-spittin-30-sec-piece-2-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/young-poet-spittin-30-sec-piece-2-2000x1329.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-034-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-034-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-127-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-127-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-166-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-166-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-064-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-064-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-050-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-050-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-041-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-041-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-g",
+          "articleLayout": false,
+          "allItem": "ALL",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-q",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p>All students are welcome. We do not expect a general interest but rather plan to open up and introduce the different sectors allowing students to understand the many roads that lead to this art form. It is okay if they do not consider themselves a poet, but there is a storyteller in them all.&nbsp;</p>",
+          "text2": "<p>They all participate in the oral tradition somehow. Some of them may lead prayer at church, some may have journals or a book of rhymes, even the class clown is a story teller. It is about polishing the sector of storytelling that already lives in them.</p>"
+        },
+        {
+          "_styles": {
+            ".btn-social": {
+              "color": "#fff",
+              "height": "60px",
+              "width": "60px",
+              "line-height": "60px",
+              "font-size": "2rem"
+            },
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/freepoetry-010-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#35a0c6",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "subtitle": "breathe new life into the notion of school spirit by fusing art, culture, performance, and sport.",
+          "title": "CONTACT US",
+          "text": "&nbsp;At the core, this isn't a teams of students &nbsp;is traveling just to win games for their individual school. They want to share their stories with the world.",
+          "form": {
+            "action": "info@generationverb.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Generation Verb."
+        }
+      ]
+    }
+  }
+}
