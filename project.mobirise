@@ -49,13 +49,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2ecc71"
+              "color": "#ecf0f1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2ecc71"
+              "background-color": "#ecf0f1"
             },
             ".link, .dropdown-item": {
-              "color": "#2ecc71"
+              "color": "#ecf0f1"
             },
             ".link": {
               "font-size": "0.875rem"
@@ -70,7 +70,7 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#2ecc71"
+              "color": "#ecf0f1"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#222f3d"
@@ -82,7 +82,7 @@
               "background": "#34495e"
             },
             ".bg-color.transparent .link": {
-              "color": "#2ecc71",
+              "color": "#ecf0f1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -105,7 +105,7 @@
             "bgColor": "#34495e",
             "fontSize": 0.875,
             "fontName": {},
-            "fontColor": "#2ecc71",
+            "fontColor": "#ecf0f1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GENERATION VERB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-5\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#accordion2-l\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-g\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-5\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#accordion2-l\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-g\">GALLERY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery1-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">AFFILIATES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://herstory2.kraalcharlesmedia.com\" target=\"_blank\">HERSTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://WWW.THEMALEEGO.kraalcharles.com\" target=\"_blank\">THE MALE EGO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -309,11 +309,11 @@
           "text1": "<p>The day to day enactment of the program will take the feel of an interactive poetry workshop. Each workshop led by a seasoned performer and writer, will allow students to view, learn, then explore the most fundamental and dynamic components of the craft. Emphasis will encourage students to learn by doing. Instructors will exploit student engagement with a keen eye toward helping students apply taught concepts toward the development of the student’s own craft.</p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">To be sure students will have fun, but the good times they're having will always be hinged to valuable skill building and critical insight on the craft. Students will be introduced to the historical and contemporary evolution of the oral tradition. Each lesson will be structured around a thorough breakdown of poetic structure, figurative language, performance technique, and proper vocal projection. &nbsp;</span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">The workshops will be tailored to the specific needs of the children within it. Our curriculum exists as a thorough and flexible working outline patterned to adjust to the particular needs interests and abilities of students within every program. Poetry has the ability to mirror theater, hip hop, literature, and speech writing, or even a combination of all, and how it bends should be a reflection of the students not the instructors. We will be sure to provide a staff dynamic enough to not only recognize the need of the students but to apply alterations accordingly.&nbsp;</span></p>",
           "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseTwoaccordion2-l\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Long line&nbsp;</a>",
           "text2": "<p>The daily workshops are conceived as steps on a path toward the cultivation of students writing, editing, memorizing, and performing their own work. We consider each group as an emerging cadre of young poets. This group of poets deserves a chance to test their hard work in a slam. The slam will create a team. This team will comprise the best work created by our student-poets to represent the school's poetry program. This team will compete with the other school teams within the program. Why learn the art of slam poetry and never apply it? Through the rigor and challenge of friendly competition students will gain the opportunity to compete with their own stories and in their own voices. What better to instill confidence into the minds of these young poets than to offer a forum where they can present their stories to their own peers alongside the fond memories of competition? This will operate like a school step team, or basketball team, we will have a season in which students are allowed to travel and compete with other schools in poetry slam. This already happens on the collegiate level at CUPSI, and a lot of those who compete are fresh out of high school and wish this resource were available then. \n</p>",
-          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseThreeaccordion2-l\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Staff&nbsp;</a>",
+          "title3": "<a role=\"button\" class=\"text-white collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseThreeaccordion2-l\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Staff&nbsp;</a>",
           "text3": "<p>We have gathered some of the cities brightest poets from all walks of the tradition. These poets hail from different backgrounds and different disciplines. Our staff is dynamic because we plan for your students to be, we are a multicultural group of artists unified by one craft, a mixture of hip hop, theater, comedy, creative writing, and even a little gospel. If there is a stage and words spoken on it then it is an inalienable part of this tradition. \n</p>",
           "title4": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseFouraccordion2-l\" aria-expanded=\"true\" aria-controls=\"collapseFour\">The Students \n</a>",
           "text4": "<p>All students are welcome. We do not expect a general interest but rather plan to open up and introduce the different sectors allowing students to understand the many roads that lead to this art form. It is okay if they do not consider themselves a poet, but there is a storyteller in them all. They all participate in the oral tradition somehow. Some of them may lead prayer at church, some may have journals or a book of rhymes, even the class clown is a story teller. It is about polishing the sector of storytelling that already lives in them. \n</p>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseFiveaccordion2-l\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Partners</a>",
+          "title5": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion2-l-init\" data-core=\"\" href=\"#collapseFiveaccordion2-l\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Partners</a>",
           "text5": "<p>We are looking to work with children grade 6-12 in inner city schools or minority populous school. They are our focus group because we feel they have the most to gain from this program&nbsp;</p>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
@@ -339,52 +339,12 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery5-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery5-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-034-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/freepoetry-034-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/freepoetry-127-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/freepoetry-127-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-166-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/freepoetry-166-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-064-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/freepoetry-064-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -396,7 +356,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/freepoetry-050-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/freepoetry-050-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -407,9 +367,49 @@
                 "image": "@PROJECT_PATH@/assets/images/freepoetry-041-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-059-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-059-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/freepoetry-164-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/freepoetry-164-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/contactimg-2000x1180-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/contactimg-2000x1180.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "0",
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
@@ -537,7 +537,7 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
         },
         {
           "_styles": {
@@ -557,7 +557,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#34495e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

@@ -725,15 +725,15 @@ blockquote {
   color: #ffffff;
 }
 #menu-2 .navbar-toggler {
-  color: #2ecc71;
+  color: #ecf0f1;
 }
 #menu-2 .close-icon::before,
 #menu-2 .close-icon::after {
-  background-color: #2ecc71;
+  background-color: #ecf0f1;
 }
 #menu-2 .link,
 #menu-2 .dropdown-item {
-  color: #2ecc71;
+  color: #ecf0f1;
 }
 #menu-2 .link {
   font-size: 0.875rem;
@@ -752,7 +752,7 @@ blockquote {
 }
 #menu-2 .dropdown-item:hover,
 #menu-2 .dropdown-item:focus {
-  color: #2ecc71;
+  color: #ecf0f1;
 }
 #menu-2 .link[aria-expanded="true"],
 #menu-2 .dropdown-menu {
@@ -771,7 +771,7 @@ blockquote {
   background: #34495e;
 }
 #menu-2 .bg-color.transparent .link {
-  color: #2ecc71;
+  color: #ecf0f1;
   transition: none;
 }
 #menu-2 .bg-color.transparent.opened .link {
